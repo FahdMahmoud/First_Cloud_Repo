@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Fahd Mahmoud
 Line 1 on feature.1 branch
 Line 2 on feature.1 branch
 Line 3 on feature.1 branch
 -----EOD------
+=======
+Fahd Mahmoud Mohamed Eshaikh
+>>>>>>> main
